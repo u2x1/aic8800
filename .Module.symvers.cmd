@@ -1,0 +1,1 @@
+cmd_/home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/Module.symvers := sed 's/ko$$/o/' /home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/modules.order | scripts/mod/modpost -m -a  -o /home/aic/workspace/8818/tenda/aic8800fdrvpackage/AIC8800/drivers/aic8800/Module.symvers -e -i Module.symvers   -T -
